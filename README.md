@@ -8,6 +8,10 @@ This is an example to show different parts
 
 ## Purpose
 
+Purpose
+
 ## Deployment
+
+Deplouyment easy or local
 
 ## How to contribute
