@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Roberto Basile -- dev -- @robertobasile
 
 # THANKS
 
