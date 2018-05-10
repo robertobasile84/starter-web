@@ -4,6 +4,8 @@ This is a simple website project
 
 Added test
 
+Emergency fix for fix
+
 More changes for myfeature branch
 
 ## Introduction
