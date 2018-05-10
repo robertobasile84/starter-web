@@ -23,4 +23,4 @@ Deplouyment easy or local
 Please fork this repo and pull request for review
 
 
-2018 Roby
+2018 Roby. All rights reserved
